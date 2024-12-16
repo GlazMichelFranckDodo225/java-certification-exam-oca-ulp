@@ -1,4 +1,4 @@
-package com.dgmf.a;
+package com.dgmf.a.mainmethod;
 
 public class MainMethod {
     // Java Program starts by executing the “main()” Method
